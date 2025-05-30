@@ -55,3 +55,6 @@
 
 ![image](https://github.com/user-attachments/assets/48f7abb8-6dd9-49de-9448-06c8cfacec1e)
 
+
+## Result:
+Thus an image is edited using an image editing software
